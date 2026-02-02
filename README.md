@@ -16,6 +16,25 @@ Implemented in **Python** using **TensorFlow/Keras** and trained on a custom fac
 ## **Dataset**
 - Dataset used: [Face Mask Dataset by Omkar Gurav](https://www.kaggle.com/datasets/omkargurav/face-mask-dataset)
 - Folder structure:
+- data/
+├── with_mask/
+└── without_mask/
+
+
+---
+
+## **Requirements**
+- Python 3.x
+- TensorFlow
+- Keras
+- Matplotlib
+- Numpy
+
+You can install dependencies via pip:
+
+```bash
+pip install tensorflow matplotlib numpy
+
 
 <img width="1147" height="444" alt="image" src="https://github.com/user-attachments/assets/adaf109e-0b92-4e93-889d-9962a8ec2ed7" />
 
