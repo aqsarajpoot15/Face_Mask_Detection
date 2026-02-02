@@ -30,12 +30,9 @@ Implemented in **Python** using **TensorFlow/Keras** and trained on a custom fac
 - Matplotlib
 - Numpy
 
-You can install dependencies via pip:
-
-```bash
-pip install tensorflow matplotlib numpy
+<img width="1147" height="444" alt="image" src="https://github.com/user-attachments/assets/2445b18e-4bb2-416c-86df-e7b179137043" />
+<img width="1224" height="466" alt="image" src="https://github.com/user-attachments/assets/e06105e4-c7ae-481f-8221-3706ef35a9ae" />
 
 
-<img width="1147" height="444" alt="image" src="https://github.com/user-attachments/assets/adaf109e-0b92-4e93-889d-9962a8ec2ed7" />
 
-<img width="1224" height="466" alt="image" src="https://github.com/user-attachments/assets/1b06b956-c9db-474f-a036-9a57fa5dd054" />
+
